@@ -1,0 +1,16 @@
+{
+  "name": "images-main",
+  "version": "1.0.0",
+  "description": "我的图片",
+  "main": "insert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^2.0.2",
+    "mongoose": "^8.16.2"
+  }
+}
